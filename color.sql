@@ -6,9 +6,3 @@
 
 SELECT * FROM colors
 
---CREATE TABLE emp(empid INTEGER NOT NULL PRIMARY KEY, empname TEXT NOT NULL, 
---email NOT NUULL);
-
---INSERT INTO emp(empname,email)
---VALUES("Sam","abc@gmail.com");
-SELECT * FROM emp;
